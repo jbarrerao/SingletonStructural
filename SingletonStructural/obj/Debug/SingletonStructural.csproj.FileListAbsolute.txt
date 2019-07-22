@@ -1,0 +1,7 @@
+E:\Plan carrera\Gof\patternsCreation\Singleton\SingletonStructural\SingletonStructural\bin\Debug\SingletonStructural.exe.config
+E:\Plan carrera\Gof\patternsCreation\Singleton\SingletonStructural\SingletonStructural\bin\Debug\SingletonStructural.exe
+E:\Plan carrera\Gof\patternsCreation\Singleton\SingletonStructural\SingletonStructural\bin\Debug\SingletonStructural.pdb
+E:\Plan carrera\Gof\patternsCreation\Singleton\SingletonStructural\SingletonStructural\obj\Debug\SingletonStructural.csprojAssemblyReference.cache
+E:\Plan carrera\Gof\patternsCreation\Singleton\SingletonStructural\SingletonStructural\obj\Debug\SingletonStructural.csproj.CoreCompileInputs.cache
+E:\Plan carrera\Gof\patternsCreation\Singleton\SingletonStructural\SingletonStructural\obj\Debug\SingletonStructural.exe
+E:\Plan carrera\Gof\patternsCreation\Singleton\SingletonStructural\SingletonStructural\obj\Debug\SingletonStructural.pdb
